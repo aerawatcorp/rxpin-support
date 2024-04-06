@@ -1,80 +1,80 @@
 [
-    {
-        "catg_name": "Autism Spectrum Therapy",
-        "services": [
-            {
-                "name": "ABA Therapy",
-                "color_hex": "#ABCDEF",
-                "short_description": "One-on-one personal therapy sessions to improve mental health.",
-                "duration": 60,
-                "default_price": 15000,
-                "priority": 1,
-                "is_active": true
-            },
-            {
-                "name": "Speech Therapy",
-                "color_hex": "#ABCDEF",
-                "short_description": "One-on-one personal therapy sessions to improve mental health.",
-                "duration": 60,
-                "default_price": 15000,
-                "priority": 2,
-                "is_active": true
-            },
-            {
-                "name": "Occupational Therapy",
-                "color_hex": "#ABCDEF",
-                "short_description": "One-on-one personal therapy sessions to improve mental health.",
-                "duration": 60,
-                "default_price": 15000,
-                "priority": 3,
-                "is_active": true
-            },
-            {
-                "name": "Music Therapy",
-                "color_hex": "#ABCDEF",
-                "short_description": "One-on-one personal therapy sessions to improve mental health.",
-                "duration": 60,
-                "default_price": 15000,
-                "priority": 4,
-                "is_active": true
-            }
-        ]
-    },
-    {
-        "catg_name": "Capacity Building",
-        "services": [
-            {
-                "name": "Teacher's Training",
-                "color_hex": "#ABCDEF",
-                "short_description": "One-on-one personal therapy sessions to improve mental health.",
-                "duration": 60,
-                "default_price": 15000,
-                "priority": 1,
-                "is_active": true
-            }, 
-            {
-                "name": "Parent Child Training Program - PCTP",
-                "color_hex": "#ABCDEF",
-                "short_description": "One-on-one personal therapy sessions to improve mental health.",
-                "duration": 60,
-                "default_price": 15000,
-                "priority": 2,
-                "is_active": true
-            }
-        ]
-    },
-    {
-        "catg_name": "Day Care Center",
-        "services": [
-            {
-                "name": "ABA Therapy",
-                "color_hex": "#ABCDEF",
-                "short_description": "One-on-one personal therapy sessions to improve mental health.",
-                "duration": 60,
-                "default_price": 15000,
-                "priority": 1,
-                "is_active": true
-            }
-        ]
-    }
+  {
+    "catg_name": "Autism Spectrum Therapy",
+    "services": [
+      {
+        "name": "ABA Therapy",
+        "color_hex": "#F0E68C",
+        "short_description": "One-on-one personal therapy sessions to improve mental health.",
+        "duration": 60,
+        "default_price": 15000,
+        "priority": 1,
+        "is_active": true
+      },
+      {
+        "name": "Speech Therapy",
+        "color_hex": "#DACBFF",
+        "short_description": "One-on-one personal therapy sessions to improve mental health.",
+        "duration": 60,
+        "default_price": 15000,
+        "priority": 2,
+        "is_active": true
+      },
+      {
+        "name": "Occupational Therapy",
+        "color_hex": "#FADBD8",
+        "short_description": "One-on-one personal therapy sessions to improve mental health.",
+        "duration": 60,
+        "default_price": 15000,
+        "priority": 3,
+        "is_active": true
+      },
+      {
+        "name": "Music Therapy",
+        "color_hex": "#C3E0E5",
+        "short_description": "One-on-one personal therapy sessions to improve mental health.",
+        "duration": 60,
+        "default_price": 15000,
+        "priority": 4,
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "catg_name": "Capacity Building",
+    "services": [
+      {
+        "name": "Teacher's Training",
+        "color_hex": "#D6EAF8",
+        "short_description": "One-on-one personal therapy sessions to improve mental health.",
+        "duration": 60,
+        "default_price": 15000,
+        "priority": 1,
+        "is_active": true
+      },
+      {
+        "name": "Parent Child Training Program - PCTP",
+        "color_hex": "#FFF5F3",
+        "short_description": "One-on-one personal therapy sessions to improve mental health.",
+        "duration": 60,
+        "default_price": 15000,
+        "priority": 2,
+        "is_active": true
+      }
+    ]
+  },
+  {
+    "catg_name": "Day Care Center",
+    "services": [
+      {
+        "name": "ABA Therapy",
+        "color_hex": "#E0FFFF",
+        "short_description": "One-on-one personal therapy sessions to improve mental health.",
+        "duration": 60,
+        "default_price": 15000,
+        "priority": 1,
+        "is_active": true
+      }
+    ]
+  }
 ]
